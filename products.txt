@@ -1,0 +1,13 @@
+Electronic|E001|MacBook Pro M5 Max|89990000.00|60|Apple|12|140.00|20.00
+Electronic|E002|Dell XPS 17|55990000.00|28|Dell|24|130.00|19.00
+Electronic|E003|Sony WH-1000XM6|10990000.00|120|Sony|18|30.00|5.00
+Electronic|E004|LG OLED C5 65 Inch|45990000.00|25|LG|36|250.00|220.00
+Electronic|E005|Asus ROG Strix G18|68990000.00|33|Asus|24|280.00|20.00
+Clothing|C001|Ao hoodie|450000.00|18|Nike|L|polyester|den
+Clothing|C002|Quan jean|550000.00|24|Levis|32|jean|xanh
+Clothing|C003|Ao so mi|320000.00|39|Routine|M|cotton|trang
+Clothing|C004|Quan short|250000.00|35|Adidas|L|kaki|xam
+Clothing|C005|Ao khoac bomber|780000.00|20|Zara|XL|du|reu
+Electronic|E006|Iphone 15 Pro Max|100000000.00|11|Apple|12|12.00|12.00
+Clothing|C006|Ao phong|200000.00|20|VN|M|cotton|Den
+Clothing|C007|AoDai|2000000.00|19|vn|M|cotton|trang
